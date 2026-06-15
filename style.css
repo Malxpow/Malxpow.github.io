@@ -1,10 +1,7 @@
 Body {
-  Background-color: #0000000;
-  Color: dark grey;
-}
-
-body {
-font-family: "Comic Sans MS", Times, serif;
+  background-color: #000000;
+  color: dark grey;
+  font-family: "Comic Sans MS", Times, serif;
 }
 
 h1 {
