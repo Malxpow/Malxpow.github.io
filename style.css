@@ -1,0 +1,40 @@
+Body {
+  Background-color: #4d2885;
+  Color: white;
+}
+
+body {
+font-family: "Comic Sans MS", Times, serif;
+}
+
+h1 {
+Background-color: cyan;
+  Color: darkblue
+}
+
+a { 
+Color:red;
+}
+
+a:hover { 
+background-color: blue;
+Color: cyan;
+}
+
+h1 {
+font-size: 40px;
+}
+
+ h2, h3 {
+font-size: 25px;
+} 
+
+body  {
+  text-align: center;
+}
+
+
+
+
+
+
