@@ -1,7 +1,8 @@
 Body {
   color: #ffffff;
   font-family: "Comic Sans MS", Times, serif;
-    background: linear-gradient(to bottom, #ff3399 0%, #0000cc 100%);
+  background: linear-gradient(to bottom, #ff3399 0%, #0000cc 100%);
+  background-image: url("stars.jpg");
 }
 
 h1 {
