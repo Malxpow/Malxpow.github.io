@@ -7,10 +7,10 @@ Body {
 
 h1 {
 Background-color: cyan;
-  Color: darkblue
-   max-width: 400px;
-   margin: auto;
-  border-radius: 15px;
+Color: darkblue
+max-width: 400px;
+margin: auto;
+border-radius: 15px;
 }
 
 a { 
@@ -43,12 +43,12 @@ body  {
 }
 
 .card {
-    background-color: #6600ff;
-    border-radius: 15px;
-    padding: 20px;
-    margin-top: 20px;
-    opacity: 0.5;
-   max-width: 1500px;
+  background-color: #6600ff;
+  border-radius: 15px;
+  padding: 20px;
+  margin-top: 20px;
+  opacity: 0.5;
+  max-width: 1500px;
 }
 
 
