@@ -31,6 +31,12 @@ body  {
   text-align: center;
 }
 
+.callout {
+  padding: 30px;
+  margin: 10px;
+  background-color: pink;
+  
+}
 
 
 
