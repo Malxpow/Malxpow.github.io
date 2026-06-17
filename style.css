@@ -54,8 +54,9 @@ body  {
   max-width: 1450px;
 }
 
-.card p, .card h1, .card h2, .card h3 {
-  opacity: 1;
+.card p {
+  color: white;
+  opacity: 1.0 !important;
 }
 
 
