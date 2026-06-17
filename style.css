@@ -38,6 +38,7 @@ body  {
   padding: 30px;
   margin: auto;
   background-color: #0000ff;
+  border-radius: 15px;
   max-width: 500px;
   
 }
