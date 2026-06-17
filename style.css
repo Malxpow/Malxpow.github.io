@@ -33,8 +33,9 @@ body  {
 
 .callout {
   padding: 30px;
-  margin: 10px;
+  margin: auto;
   background-color: #0000ff;
+  max-width: 500px;
   
 }
 
