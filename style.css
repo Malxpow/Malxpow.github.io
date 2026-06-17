@@ -8,6 +8,9 @@ Body {
 h1 {
 Background-color: cyan;
   Color: darkblue
+  border-radius: 15px;
+   max-width: 500px;
+   margin: auto;
 }
 
 a { 
